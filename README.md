@@ -1,4 +1,4 @@
-# VBA-challenge
+# Stock Analysis in VBA
 # Unit 2 Project: VBA
 
 This is an assignment that I completed for the George Washington University Data Analytics Bootcamp, focused on analysis in VBA.
