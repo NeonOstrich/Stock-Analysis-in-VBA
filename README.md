@@ -27,6 +27,9 @@ greatest percent decrease, and the greatest volume traded.
 
 For the "Multiple_year_stock_data" dataset, this analysis was performed for every
 year which we had data for, 2018, 2019, and 2020.
+<img width="927" alt="Screen Shot 2018" src="https://user-images.githubusercontent.com/119632669/226222789-ae94b836-4215-49c1-8920-bd6b165b5c4c.png">
+<img width="923" alt="Screen Shot 2019" src="https://user-images.githubusercontent.com/119632669/226222813-11d217da-24ea-4a15-a1d7-0ebd5025727e.png">
+<img width="948" alt="Screen Shot 2020" src="https://user-images.githubusercontent.com/119632669/226222831-2542915f-2518-47a2-a94d-bc05af5f0f5a.png">
 
 ##Insights
 
